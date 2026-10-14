@@ -1,4 +1,4 @@
-# Principles and Methods inspired by the writings of Steve Krug and both Gareth Ford Williams and Michael Mathews from Accessiblethinking.com
+# UX Principles and Methods
 
 This is a practical philosophy of reducing avoidable effort. Not a formal design methodology in the same sense as human-centred design, cognitive walkthroughs or standards-based accessibility testing. Instead, this should provide memorable principles and lightweight practices that help an LLM notice when an interface might make a user hesitate.
 
