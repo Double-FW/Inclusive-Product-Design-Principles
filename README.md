@@ -1,6 +1,6 @@
-# Product Design Principles and Perspectives
+# Inclusive Product Design Principles
 
-Product Design Principles and Perspectives is a source repository for structuring design philosophy, customer research, synthetic perspective models, and AI-assisted research management across functional and emotional experience.
+Product Design Principles is a source repository for structuring design philosophy, customer research, synthetic perspective models, and AI-assisted research management across functional and emotional experience.
 
 The repository deliberately holds paired accounts of sighted and nonvisual digital experience. Its purpose is not to decide which perspective is correct. Its purpose is to expose how the same service can communicate meaning, control, confidence, safety, and brand value through different perceptual and interaction routes.
 
