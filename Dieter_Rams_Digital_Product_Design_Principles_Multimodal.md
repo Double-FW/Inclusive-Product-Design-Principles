@@ -39,7 +39,6 @@ For the broader emotional outcomes, see [POUR reframed as brand experience outco
 
 A brand is also experienced through the new capabilities its product makes possible. **Visual-first:** a distinctive interaction can express a brand’s character, but should make the benefit easy to see and predict. **Audio-first:** spoken guidance, sound and feedback should preserve that character while making the action discoverable and reversible. Innovation builds trust when it helps people feel capable across modes.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: brand expression and emotional accessibility](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#5-brand-expression-and-emotional-accessibility).
 
 ## 2. Usefulness begins with the person’s outcome
 
@@ -56,7 +55,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 Usefulness is where a brand promise becomes an outcome. **Visual-first:** the main customer task needs a clear place in the hierarchy. **Audio-first:** people should be able to find, complete and verify that task without relying on a sighted intermediary. A brand earns the feeling of capability when its service supports the person’s intention rather than merely promoting its features.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: testing in the intended task and context](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#7-testing-typography-in-context).
 
 ## 3. Aesthetic quality should be felt through the whole experience
 
@@ -73,7 +71,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 Brand character travels through both appearance and behaviour. **Visual-first:** type, colour, imagery and composition can make an experience distinctive while helping people perceive what matters. **Audio-first:** language, voice, pacing and interaction rhythm can carry character without narrating every visual detail. Both perspectives need a coherent experience that feels considered, not a visual theme translated word for word.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: brand expression and emotional accessibility](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#5-brand-expression-and-emotional-accessibility).
 
 ## 4. The product should make itself understandable
 
@@ -90,7 +87,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 A brand feels confident when its language and behaviour make sense together. **Visual-first:** hierarchy and typography help people understand relationships and sequence. **Audio-first:** meaningful names, ordered information and clear state changes do the same over time. In either mode, an expressive voice should not make prices, choices or consequences harder to understand.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: legibility and readability](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#2-legibility-and-readability).
 
 ## 5. The product should respect attention
 
@@ -107,7 +103,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 A brand’s tone is partly the way it treats people’s attention. **Visual-first:** restrained composition lets the task breathe while useful hierarchy keeps important information prominent. **Audio-first:** concise labels, proportionate announcements and a calm listening rhythm prevent the service from becoming verbally intrusive. Readable text can make the brand feel considerate rather than demanding.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: the three parts of accessible typography](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#1-the-three-parts-of-accessible-typography).
 
 ## 6. The service should be honest about choices and consequences
 
@@ -124,7 +119,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 Trust depends on the gap between what a brand says and what its service does. **Visual-first:** emphasis, order and preselected choices should not disguise terms or pressure acceptance. **Audio-first:** names and spoken sequence should make the terms and option to refuse clear before commitment. The experience feels confident and respectful when brand voice, visual expression and actual consequences agree.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: brand expression and emotional accessibility](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#5-brand-expression-and-emotional-accessibility).
 
 ## 7. The product should preserve useful familiarity over time
 
@@ -141,7 +135,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 People build a relationship with a brand through repeated use. **Visual-first:** a recognisable system can evolve without moving familiar actions for novelty’s sake. **Audio-first:** stable vocabulary, routes and control behaviour protect the knowledge people have built. Typography governance can preserve recognisable character while adapting to language, device and reading context.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: language, script and technical delivery](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#6-language-script-and-technical-delivery).
 
 ## 8. Care should reach every state and detail
 
@@ -158,7 +151,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 People meet a brand throughout the journey, including moments not shown in a polished screen. **Visual-first:** loading, errors, empty states and recovery should retain clear hierarchy and tone. **Audio-first:** names, sequence, status and feedback should make those same moments understandable and recoverable. Care in these details is evidence that customers were considered throughout.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: testing across languages, devices and contexts](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#7-testing-typography-in-context).
 
 ## 9. Reduce environmental and human waste
 
@@ -175,7 +167,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 A considerate brand avoids wasting people’s time, attention, data and device resources. **Visual-first:** large media and motion should earn the performance cost they impose. **Audio-first:** unnecessary playback, downloads and forced listening also have a cost. A lean type system and careful font delivery can preserve brand identity while helping the experience work well across devices.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: language and technical delivery](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#6-language-script-and-technical-delivery).
 
 ## 10. Use as little design as the task allows—and no less meaning
 
@@ -194,7 +185,6 @@ Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/P
 
 Restraint should remove friction without stripping away meaning or identity. **Visual-first:** fewer elements help only when hierarchy, useful labels and brand character remain. **Audio-first:** less repetition helps only when people still receive needed context, state and feedback; visual personality should be conveyed through meaningful language and interaction, not an inventory of colours and shapes. A well-governed type system can balance distinctiveness with readable everyday communication.
 
-Related reading: [POUR brand experience outcomes](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) · [Typography: balancing function and brand expression](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems/blob/main/Accessible_Typography_for_UX_and_Brand_Systems.md#5-brand-expression-and-emotional-accessibility).
 
 ## A multimodal view of good digital design
 
