@@ -34,7 +34,7 @@ MANAGED = [
     "README.md", "LICENSE", "documents.jsonl", "knowledge_chunks.jsonl",
     "provenance.json", "record_schema.json", "export_manifest.json",
 ]
-HEADING = re.compile(r"^(#{1,3})[ \\t]+(.+?)\\s*#*[ \\t]*$")
+HEADING = re.compile(r"^(#{1,3})[ \t]+(.+?)\\s*#*[ \t]*$")
 
 
 def digest(data):
@@ -73,7 +73,7 @@ def load_sources():
     if config.get("source_files") != SOURCE_FILES:
         raise ValueError("Source integrity allowlist changed; review before publication.")
     content = {path: committed_file(path).decode("utf-8") for path in SOURCE_FILES}
-    if not content["LICENSE"].startswith("MIT License\\n"):
+    if not content["LICENSE"].startswith("MIT License\n"):
         raise ValueError("The source licence is no longer the approved MIT licence.")
     return content, git("rev-parse", "HEAD"), git("show", "-s", "--format=%cs", "HEAD")
 
@@ -140,7 +140,7 @@ def make_records(content, commit, date):
                 if next_depth <= depth:
                     end = next_start
                     break
-            section = "\\n".join(lines[start:end]).rstrip("\\n")
+            section = "\n".join(lines[start:end]).rstrip("\n")
             if section.strip():
                 chunks.append(make_record(
                     section, text, path, commit, date, title, "section",
@@ -258,10 +258,10 @@ GitHub is the authoring source. GitHub Actions syncs approved changes from the d
     payload = {
         "README.md": card.encode("utf-8"),
         "LICENSE": content["LICENSE"].encode("utf-8"),
-        "documents.jsonl": ("".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) + "\\n" for r in documents)).encode("utf-8"),
-        "knowledge_chunks.jsonl": ("".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) + "\\n" for r in chunks)).encode("utf-8"),
-        "provenance.json": (json.dumps(provenance, ensure_ascii=False, indent=2) + "\\n").encode("utf-8"),
-        "record_schema.json": (json.dumps(schema, ensure_ascii=False, indent=2) + "\\n").encode("utf-8"),
+        "documents.jsonl": ("".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) + "\n" for r in documents)).encode("utf-8"),
+        "knowledge_chunks.jsonl": ("".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) + "\n" for r in chunks)).encode("utf-8"),
+        "provenance.json": (json.dumps(provenance, ensure_ascii=False, indent=2) + "\n").encode("utf-8"),
+        "record_schema.json": (json.dumps(schema, ensure_ascii=False, indent=2) + "\n").encode("utf-8"),
     }
     manifest = {
         "dataset_version": VERSION, "source_commit": commit,
@@ -269,7 +269,7 @@ GitHub is the authoring source. GitHub Actions syncs approved changes from the d
         "files": {name: {"size_bytes": len(data), "sha256": digest(data)}
                   for name, data in sorted(payload.items())},
     }
-    payload["export_manifest.json"] = (json.dumps(manifest, ensure_ascii=False, indent=2) + "\\n").encode("utf-8")
+    payload["export_manifest.json"] = (json.dumps(manifest, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
     return payload, {"commit": commit, "documents": len(documents), "knowledge_chunks": len(chunks)}
 
 
@@ -287,7 +287,7 @@ def build(output, dataset_id):
 def publish(folder, token, dataset_id):
     if dataset_id != TARGET:
         raise ValueError("The dataset destination is fixed to " + TARGET + ".")
-    if not token or not token.startswith("hf_") or token != token.strip() or any(c in token for c in "\\n\\r\\t"):
+    if not token or not token.startswith("hf_") or token != token.strip() or any(c in token for c in "\n\\r\t"):
         raise ValueError("Add the dataset-scoped HF_TOKEN GitHub Actions secret.")
     verify_public_source()
     with tempfile.TemporaryDirectory() as temporary:
@@ -359,7 +359,7 @@ def main():
         summary = os.environ.get("GITHUB_STEP_SUMMARY")
         if summary:
             with open(summary, "a", encoding="utf-8") as handle:
-                handle.write("## Hugging Face dataset sync\\n\\n" + result + "\\n")
+                handle.write("## Hugging Face dataset sync\n\n" + result + "\n")
 
 
 if __name__ == "__main__":
