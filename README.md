@@ -39,7 +39,7 @@ The AI may act as an organiser, analyst, critic, protocol drafter, synthesis par
 | [POUR Brand Experience Outcomes — Nonvisual Perspective](POUR_Brand_Experience_Outcomes_Nonvisual_Perspective.md) | First-person nonvisual perspective | Connects functional experience with feeling seen, capable, confident, safe, and valued without reliance on sight. |
 | [POUR Brand Experience Outcomes — Sighted Perspective](POUR_Brand_Experience_Outcomes_Sighted_Perspective.md) | First-person sighted perspective | Connects visual hierarchy, clarity, agency, reliability, and trust with the same emotional outcomes. |
 | [Principles — First-Person Sighted Perspective](Principles_First_Person_Sighted_Perspective.md) | First-person sighted UX practice | Provides practical usability philosophy, observation, lightweight testing, iteration, and limits on claims. |
-| [UX Practice: From Principles to People](UX_Practice_From_Principles_to_People.md) | Applied UX practice | Connects principles to tasks, conventions, affordances, signifiers, brand, emotion, and practical methods. |
+| [UX Practice: From Principles to People](UX_Practice_From_Principles_to_People.md) | Applied UX practice and co-design | Connects principles to tasks, conventions, affordances, signifiers, brand, emotion, practical research methods, and meaningful participant influence. |
 | [LICENSE](LICENSE) | Repository license | Defines the repository’s MIT license. |
 
 ### Source authority
@@ -671,4 +671,20 @@ The AI may repair broken links, improve retrieval metadata, add unambiguous inde
 ### Final test
 
 The repository is not successful because an AI can generate a convincing persona or polished research plan. It is successful when the AI helps people ask better questions, recruit the perspectives that are missing, distinguish evidence from assumption, and make design decisions that improve both functional outcomes and the emotional experience of being a customer.
+
+
+
+## 20. Related Double-FW guidance
+
+Use the specialist source for detail and follow its evidence and authority limits. This repository supplies product-design reasoning and research methods; it does not replace specialist requirements, programme governance, legal interpretation, or technical testing.
+
+| Need | Start with |
+|---|---|
+| Cognitive accessibility and form journeys | [Cognitive UX Design](https://github.com/Double-FW/Cognitive-UX-Design) |
+| Demographic estimates, audience reach and customer value | [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics) |
+| Typography and brand systems | [Accessible Typography](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems) and [POURS for branding systems and customer experience](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) |
+| Cross-mode input, output and semantic structure | [Inclusive Multimodal UX](https://github.com/Double-FW/Inclusive-Multimodal-UX) |
+| Television, streaming and media control | [Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces) |
+| Programme delivery, accountability and reporting | [Accessibility Programme Runbooks](https://github.com/Double-FW/Accessibility_Programme_Runbooks) and [Inclusion and Accessibility Policy](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy) |
+| Canonical inclusive service outcomes | [Inclusive Digital Service Outcome Dataset](https://github.com/Double-FW/Inclusive_and_Effective_Design/blob/main/Inclusive_Digital_Service_Outcome_Dataset.md) |
 

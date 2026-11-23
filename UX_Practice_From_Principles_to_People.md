@@ -225,6 +225,43 @@ There is no universal requirement to test on a fixed monthly cadence or to run a
 
 ---
 
+## Co-design and meaningful participant influence
+
+Co-design brings people affected by a design into framing the problem, generating and shaping options, and reviewing prototypes. It goes beyond asking people to comment on a finished proposal, although research, testing and co-design can be combined. It can support better-informed and more context-sensitive decisions, but it does not guarantee satisfaction, adoption, innovation or efficiency. Evaluate those outcomes rather than promising them.
+
+Co-design and participatory design overlap. Co-design is used broadly for collaborative creation across products, services, communities and policy. Participatory design has a stronger historical emphasis on power, workplace democracy and giving affected people meaningful influence over systems that shape their work and lives. In practice, name the method you are using and explain what influence participants will have.
+
+### Decide whether co-design fits the decision
+
+Use co-design when the problem is open to change, affects the people invited, and benefits from their knowledge while options are being shaped. It can be useful for complex, sensitive or multi-stakeholder work where participation and shared ownership matter.
+
+Do not present a session as co-design if the important decisions have already been made or the organisation cannot act on the contribution. A highly specialised technical question, a minor change, a genuinely urgent fix or an unsafe/conflictual setting may call for another method or a smaller, safer form of involvement. This does not remove the need to learn from affected people. Be explicit about constraints, decision rights and what can still change.
+
+### Plan and run the work
+
+1. **Set the decision and boundaries.** State the problem, intended outcomes, constraints, decision owner, and what participants can influence. Agree a shared aim; make goals specific and time-bounded where that helps.
+2. **Invite the right mix.** Include people who use or are affected by the product or service, relevant designers and delivery roles, and subject experts. For accessibility work, actively include disabled participants and disabled designers with relevant lived or professional experience. Do not treat one person as representing a whole group.
+3. **Make participation accessible.** Ask about access requirements; provide accessible venues, materials, tools, communication options, breaks, and language support as needed. Adapt facilitation and activities to cultural context rather than assuming one workshop format fits everyone.
+4. **Explore and create together.** Use suitable activities such as brainstorming, journey maps, storyboards, sketches, or shared problem framing. Ensure each person has a way to contribute; facilitators should notice whose ideas dominate and invite quieter voices without putting people on the spot.
+5. **Make ideas tangible and learn.** Co-create prototypes or scenarios in formats participants can inspect and influence. Iterate with participants. Distinguish collaborative creation from later usability evaluation; record what each method establishes.
+6. **Close the loop.** Document ideas, decisions, disagreements, constraints, and open questions. Explain what changed, what did not and why. Share outcomes with participants and identify owners and follow-up actions.
+
+### Clarify roles and handle disagreement
+
+| Role | Contribution |
+|---|---|
+| Participants with lived experience | Identify needs, contexts, priorities, and consequences from their own experience; shape options and review whether interpretations fit. |
+| Designers | Facilitate design activities and turn contributions into concepts without claiming ownership of participants' experience. |
+| Stakeholders and delivery owners | Explain organisational goals, constraints, dependencies, and decision authority; act on agreed follow-up. |
+| Subject experts | Explain technical, service, research or domain constraints and help assess options. |
+| Facilitator | Support accessible and balanced participation, clarify the task, manage time and group dynamics, and record unresolved views. |
+
+When ideas conflict, acknowledge each view, ask what need or concern sits behind it, reframe the problem, and compare options against the agreed outcomes and evidence. Use consensus or a transparent decision method only where appropriate. A vote must not erase access needs, safety concerns, unequal power, or minority evidence. Record dissent and revisit unresolved issues rather than implying agreement.
+
+### Use methods carefully
+
+Workshops, personas, journey maps, brainstorming, prototypes, storyboards, sketching and feedback sessions can support co-design. Choose tools for the question and participants. A persona is a discussion aid, not evidence that a real population was represented; do not substitute generated personas for participation. Keep a traceable record of how contributions informed decisions, and do not imply participants approved outcomes they did not review.
+
 ## Ten principles translated into UX practice
 
 Each principle below connects a design intention with a practical way to inspect it. Use the questions as prompts, not as a scorecard.
@@ -469,7 +506,7 @@ Taken together, these practices make good UX less dependent on guesswork. They h
 
 ## Related work
 
-The guide is informed by the supplied *UX Principles and Methods* (sighted perspective) and *Don’t Make Me Construct the Interface* (congenitally blind perspective), alongside the related Rams and brand-experience work.
+The guide is informed by the supplied *UX Principles and Methods* (sighted perspective) and *Don’t Make Me Construct the Interface* (congenitally blind perspective), alongside the related Rams and brand-experience work. The co-design method in this guide is consolidated from [Codesign.md](https://github.com/Double-FW/Inclusive_and_Effective_Design/blob/main/Codesign.md), with participation, power, evidence and decision limits made explicit.
 
 - *Ten principles for good digital product design: Reframing Dieter Rams for multimodal human experience*
 - *Indifference: the cardinal sin in design*
