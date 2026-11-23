@@ -1,8 +1,8 @@
 ---
 title: "Agent Governance and Working Agreement"
-version: "1.0.0"
+version: "1.1.0"
 author: "Double FW"
-date: "2026-10-15"
+date: "2026-11-23"
 license: "MIT"
 language: "en"
 repository: "https://github.com/Double-FW/Inclusive-Product-Design-Principles"
@@ -12,8 +12,8 @@ status: "active"
 review:
   status: "initial_review_required"
   owner: "Repository maintainer"
-  last_reviewed: "2026-10-15"
-  review_due: "2027-04-15"
+  last_reviewed: "2026-11-23"
+  review_due: "2027-05-22"
   review_interval_days: 180
   trusted_for_agent_use: "only_after_validation"
   required_checks:
@@ -425,6 +425,7 @@ The repository maintainer owns review and approval. Review this file when princi
 
 | Version | Date | Change |
 | --- | --- | --- |
+| 1.1.0 | 2026-11-23 | Added co-design method and current specialist repository routes to the source map. | 
 | 1.0.0 | 2026-10-15 | Initial governance file: machine-readable rules, perspective and evidence boundaries, workflow, output templates, and escalation observability. |
 
 ## 9. Working standard
