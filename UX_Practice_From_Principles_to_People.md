@@ -506,7 +506,7 @@ Taken together, these practices make good UX less dependent on guesswork. They h
 
 ## Related work
 
-The guide is informed by the supplied *UX Principles and Methods* (sighted perspective) and *Don’t Make Me Construct the Interface* (congenitally blind perspective), alongside the related Rams and brand-experience work. The co-design method in this guide is consolidated from [Codesign.md](https://github.com/Double-FW/Inclusive_and_Effective_Design/blob/main/Codesign.md), with participation, power, evidence and decision limits made explicit.
+The guide is informed by the supplied *UX Principles and Methods* (sighted perspective) and *Don’t Make Me Construct the Interface* (congenitally blind perspective), alongside the related Rams and brand-experience work. The guide’s [co-design method](#co-design-and-meaningful-participant-influence) makes participation, power, evidence and decision limits explicit.
 
 - *Ten principles for good digital product design: Reframing Dieter Rams for multimodal human experience*
 - *Indifference: the cardinal sin in design*
