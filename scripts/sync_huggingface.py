@@ -34,7 +34,7 @@ MANAGED = [
     "README.md", "LICENSE", "documents.jsonl", "knowledge_chunks.jsonl",
     "provenance.json", "record_schema.json", "export_manifest.json",
 ]
-HEADING = re.compile(r"^(#{1,3})[ \t]+(.+?)\\s*#*[ \t]*$")
+HEADING = re.compile(r"^(#{1,3})[ \t]+(.+?)\s*#*[ \t]*$")
 
 
 def digest(data):
@@ -287,7 +287,7 @@ def build(output, dataset_id):
 def publish(folder, token, dataset_id):
     if dataset_id != TARGET:
         raise ValueError("The dataset destination is fixed to " + TARGET + ".")
-    if not token or not token.startswith("hf_") or token != token.strip() or any(c in token for c in "\n\\r\t"):
+    if not token or not token.startswith("hf_") or token != token.strip() or any(c in token for c in "\n\r\t"):
         raise ValueError("Add the dataset-scoped HF_TOKEN GitHub Actions secret.")
     verify_public_source()
     with tempfile.TemporaryDirectory() as temporary:
