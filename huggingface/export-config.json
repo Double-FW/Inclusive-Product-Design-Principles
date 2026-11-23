@@ -1,0 +1,37 @@
+{
+  "source_repository": "Double-FW/Inclusive-Product-Design-Principles",
+  "destination_dataset": "GarethFW/Inclusive_Product_Design_Principles",
+  "dataset_version": "1.0.0",
+  "document_files": [
+    "AGENTS.md",
+    "README.md",
+    "Dieter_Rams_Digital_Product_Design_Principles_Multimodal.md",
+    "Dieter_Rams_Indifference_Cardinal_Sin_Design.md",
+    "Nonvisual_User_Expectations_Needs_Preferences_and_Outcomes.md",
+    "POUR_Brand_Experience_Outcomes_Nonvisual_Perspective.md",
+    "POUR_Brand_Experience_Outcomes_Sighted_Perspective.md",
+    "Principles_First_Person_Sighted_Perspective.md",
+    "UX_Practice_From_Principles_to_People.md"
+  ],
+  "chunk_files": [
+    "Dieter_Rams_Digital_Product_Design_Principles_Multimodal.md",
+    "Dieter_Rams_Indifference_Cardinal_Sin_Design.md",
+    "Nonvisual_User_Expectations_Needs_Preferences_and_Outcomes.md",
+    "POUR_Brand_Experience_Outcomes_Nonvisual_Perspective.md",
+    "POUR_Brand_Experience_Outcomes_Sighted_Perspective.md",
+    "Principles_First_Person_Sighted_Perspective.md",
+    "UX_Practice_From_Principles_to_People.md"
+  ],
+  "source_files": [
+    "AGENTS.md",
+    "README.md",
+    "Dieter_Rams_Digital_Product_Design_Principles_Multimodal.md",
+    "Dieter_Rams_Indifference_Cardinal_Sin_Design.md",
+    "Nonvisual_User_Expectations_Needs_Preferences_and_Outcomes.md",
+    "POUR_Brand_Experience_Outcomes_Nonvisual_Perspective.md",
+    "POUR_Brand_Experience_Outcomes_Sighted_Perspective.md",
+    "Principles_First_Person_Sighted_Perspective.md",
+    "UX_Practice_From_Principles_to_People.md",
+    "LICENSE"
+  ]
+}
