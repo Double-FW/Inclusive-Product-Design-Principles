@@ -74,6 +74,12 @@ Use specialist repositories for their detailed guidance rather than copying it h
 
 All linked Double-FW repositories should be public. Verify a repository and the specific file path before relying on a deep link. Linked source content remains governed by its own licence and terms; this repository’s MIT licence does not change those terms.
 
+## Hugging Face dataset sync
+
+The curated source documents are also published to the [Inclusive Product Design Principles dataset](https://huggingface.co/datasets/GarethFW/Inclusive_Product_Design_Principles). GitHub is the authoring source; the dataset provides full-document and heading-level retrieval records with revision and provenance metadata. These two views overlap by design.
+
+See [huggingface/SETUP.md](huggingface/SETUP.md) for owner setup, manual workflow steps, and sync behaviour. The first sync replaces the dataset's currently empty README with a dataset card. No participant research data or test reports are included.
+
 ## Licence
 
 This repository uses the MIT licence, as stated in [LICENSE](LICENSE).
