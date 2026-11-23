@@ -69,7 +69,16 @@ Read the relevant source before making a specific recommendation; cite its relat
 | [First-person sighted UX principles and methods](Principles_First_Person_Sighted_Perspective.md) | Lightweight research, observation, iteration, and limits of a sighted account. |
 | [UX practice: principles to people](UX_Practice_From_Principles_to_People.md) | Practical UX reasoning about affordances, signifiers, conventions, typography, and multimodal methods. |
 
-Related repositories: [POUR for Branding Systems and CX](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) and [Accessible Typography for UX and Brand Systems](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems).
+Related repositories and source routes:
+
+- [Inclusive and Effective Design](https://github.com/Double-FW/Inclusive_and_Effective_Design/blob/main/Inclusive_Digital_Service_Outcome_Dataset.md) owns the canonical inclusive service outcome dataset.
+- [Accessibility Programme Runbooks](https://github.com/Double-FW/Accessibility_Programme_Runbooks) owns programme stages, delivery records and reporting; [Inclusion and Accessibility Policy](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy) owns policy-drafting and policy-accountability guidance.
+- [Cognitive UX Design](https://github.com/Double-FW/Cognitive-UX-Design), [Inclusive Multimodal UX](https://github.com/Double-FW/Inclusive-Multimodal-UX), and [Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces) own their specialist design guidance.
+- [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics) owns demographic estimation and customer-opportunity methods.
+- [POURS for Branding Systems and CX](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) and [Accessible Typography for UX and Brand Systems](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems) own detailed brand-outcome and typography guidance.
+- [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) owns test methods and QA evidence.
+
+Retrieve the owning source for detailed guidance; do not duplicate its technical requirements or present a synthetic perspective as participant evidence.
 
 “Visual-first” and “audio-first” describe ways of encountering an experience, not fixed kinds of people. A person may switch modes with context. Audio-first is not a proxy for all nonvisual use: screen readers, Braille, keyboard, touch, voice, haptics, and combinations matter. The repository’s first-person nonvisual account is specifically a congenitally blind perspective; do not generalize it to every blind person, screen-reader user, or person with low vision.
 
