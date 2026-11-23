@@ -1,6 +1,8 @@
-# POUR Reimagined as Brand Experience Outcomes
+# WCAG POUR through brand experience: a sighted perspective model
 
 ## A first-person sighted perspective for digital brands, products and services
+
+**Scope:** This is an authored analytical perspective model, not a participant quotation or population finding. It prompts questions for research and does not define or alter WCAG. WCAG’s four principles remain Perceivable, Operable, Understandable, and Robust. The emotional phrases below are optional research lenses; check [Terminology and Principles](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) for their current status.
 
 I experience a brand through more than its logo, colour palette or campaign. I experience it through every promise, choice, interaction and result.
 
@@ -8,31 +10,22 @@ Because I am sighted, visual design has a strong influence on my first impressio
 
 But a brand is not what the interface looks like. It is what the organisation repeatedly enables me to perceive, do, understand and trust.
 
-The POUR principles can therefore be understood as four expected brand experience outcomes:
-
-- **Perceivable becomes: I feel seen.**
-- **Operable becomes: I feel capable.**
-- **Understandable becomes: I feel confident.**
-- **Robust becomes: I feel safe.**
-
-These outcomes combine functional and emotional experience. The functional outcome is what the product enables. The emotional outcome is what that repeated experience teaches me to believe about myself and the brand.
-
-The relationship moves in that direction. Attractive branding cannot compensate for a blocked task. Warm language cannot restore agency to an interaction I cannot control. A message that says I am valued becomes less credible when the product behaves as though I am not.
+The four principles remain accessibility principles. As a research prompt, I can ask whether an experience helps me feel seen, capable, confident, or safe. Those feelings are not guaranteed by a functional result and should not be inferred without appropriate evidence. Functional outcomes and reported emotional experience are related questions, but they are distinct.
 
 My central expectation is:
 
 > Make the brand promise true in the interaction.
 
-## How I compare the outcomes
+## How I examine the experience lenses
 
-The four outcomes reinforce one another, but they are not interchangeable.
+These lenses may be related, but they are not interchangeable.
 
 1. **I must first be able to receive the meaning.** If important information is unavailable to me, the rest of the experience has no reliable foundation.
 2. **I must be able to act.** Information without agency leaves me informed but powerless.
 3. **I must understand the action and its consequences.** Agency without confidence can become risk.
 4. **I must be able to rely on the experience.** A journey that works only under ideal conditions does not create lasting trust.
 
-The fifth emotional idea in the source draft—**feeling valued**—is best treated as the brand-level result of all four. It is not something a brand can claim independently. I feel valued when the system consistently allows me to be seen, capable, confident and safe.
+In this model, **feeling valued** is an optional lens across the four discussions. It is not a guaranteed result. I might explore whether the system respects my time, attention, decisions, and circumstances.
 
 ---
 
@@ -228,7 +221,7 @@ Feeling safe turns successful use into trust. One successful transaction proves 
 
 ---
 
-# Feeling valued: the combined brand outcome
+# Optional brand-experience lens: feeling valued
 
 Feeling valued is not a decorative emotional layer and it is not achieved by adding an inclusive photograph to a campaign.
 
@@ -250,7 +243,7 @@ Emotionally, it means:
 - my refusal is respected as much as my consent; and
 - the brand’s interest in me is not limited to conversion.
 
-Feeling valued is therefore the test of whether the four outcomes operate as a coherent brand experience.
+Feeling valued is a proposed research lens, not a test that proves the four principles have been met.
 
 ---
 
@@ -258,17 +251,15 @@ Feeling valued is therefore the test of whether the four outcomes operate as a c
 
 Functional and emotional outcomes are connected, but they should not be confused.
 
-## Function creates the evidence
+## Functional outcomes and emotional reports are distinct evidence
 
 I cannot be persuaded into feeling capable while the interaction prevents me from acting. I cannot be reassured into feeling safe while the service repeatedly loses my work.
 
-The functional experience supplies the evidence on which the emotional relationship is built.
+Functional evidence may inform a discussion of brand claims, but it cannot establish what a particular person feels. Ask people about their experience and keep their reports distinct from task results.
 
-## Emotion interprets the pattern
+## People may interpret patterns in different ways
 
-A single delay may be frustrating. Repeated delays, obscure choices and weak recovery become a message: my time is less important than the organisation’s process.
-
-Emotion is not an optional flourish. It is how I interpret the accumulated behaviour of the service.
+A person might find a delay frustrating, or interpret repeated delays, obscure choices, and weak recovery as disregard for their time. That interpretation is a hypothesis until supported by relevant evidence.
 
 ## Brand expression should strengthen both
 
@@ -290,7 +281,7 @@ I expect the brand to favour:
 
 # The brand promise I experience
 
-Marketing may tell me that a brand is open, empowering, clear, dependable and human. The product proves or disproves each claim.
+Marketing may tell me that a brand is open, empowering, clear, dependable and human. The product provides evidence that may support or undermine each claim.
 
 From my sighted perspective, a brand earns integrity when its visual expression and functional behaviour tell the same story:
 

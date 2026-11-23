@@ -1,6 +1,8 @@
-# POUR Reimagined as Brand Experience Outcomes
+# WCAG POUR through brand experience: a nonvisual perspective model
 
 ## A first-person nonvisual perspective for digital brands, products and services
+
+**Scope:** This is an authored analytical perspective model, not a participant quotation or population finding. It prompts questions for research and does not define or alter WCAG. WCAG’s four principles remain Perceivable, Operable, Understandable, and Robust. The emotional phrases below are optional research lenses; check [Terminology and Principles](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) for their current status.
 
 I have never seen a web page, app screen, logo, typeface or colour palette. I do not encounter a digital brand as a visual composition. I encounter it through words, speech, Braille, sounds, haptics, interaction order, object names, feedback and the way the service responds to what I do.
 
@@ -8,14 +10,7 @@ This does not mean that branding disappears. It means the brand reaches me throu
 
 I experience whether the organisation speaks clearly, whether its controls tell the truth, whether I can move efficiently, whether my choices are respected and whether the service remains dependable. These behaviours create tone and character as surely as colour and typography do for a sighted person.
 
-The POUR principles can therefore be understood as four expected nonvisual brand experience outcomes:
-
-- **Perceivable becomes: I feel seen.**
-- **Operable becomes: I feel capable.**
-- **Understandable becomes: I feel confident.**
-- **Robust becomes: I feel safe.**
-
-The functional and emotional outcomes cannot be separated. The functional experience gives me access to meaning and action. The emotional experience is what the pattern of those interactions teaches me about my place in the brand’s world.
+The four principles remain accessibility principles. As a research prompt, I can ask whether an experience helps me feel seen, capable, confident, or safe. Those feelings are not guaranteed by a functional result and should not be inferred without appropriate evidence. Functional outcomes and reported emotional experience are related questions, but they are distinct.
 
 My central expectation is:
 
@@ -23,16 +18,16 @@ My central expectation is:
 
 I do not speak for every blind person. People use speech, Braille, touch, physical keyboards, voice input and other methods in different combinations. This first-person account is one deliberately nonvisual way of examining the relationship between brand and experience.
 
-## How I compare the outcomes
+## How I examine the experience lenses
 
-The outcomes are connected, but they are not equal in consequence.
+These lenses are related, but they do not have equal functional consequences.
 
 1. **I need access to the meaning.** If I receive only fragments, the brand has not included me in the conversation.
 2. **I need independent action.** Information without control leaves me dependent on someone else.
 3. **I need context and consequence.** An action I can perform but cannot understand is not meaningful agency.
 4. **I need continuing reliability.** An experience that works once, with one tool or only on the ideal path cannot support trust.
 
-**Feeling valued** sits across all four. I do not feel valued because a statement says I belong. I feel valued when the product behaves as though my time, privacy, choices and experience were intentionally considered.
+In this model, **feeling valued** is an optional lens across the four discussions. It is not a guaranteed outcome. I might explore whether the product respects my time, privacy, choices, and experience.
 
 ---
 
@@ -230,9 +225,9 @@ The experience says:
 
 ---
 
-# Feeling valued: the combined brand outcome
+# Optional brand-experience lens: feeling valued
 
-Feeling valued is not a fifth technical principle. It is the emotional verdict produced by all four outcomes.
+Feeling valued is not a fifth WCAG principle or a guaranteed result of the four principles. Here it is a proposed lens for examining whether a product appears to consider a person's time, privacy, choices, and experience.
 
 I feel valued when the organisation has designed the nonvisual brand experience rather than merely allowing my technology to extract some text.
 
@@ -259,17 +254,17 @@ A diverse campaign image may communicate belonging to a sighted audience. If the
 
 # Balancing functional and emotional experience
 
-## Function is the evidence of the promise
+## Functional outcomes and emotional reports are distinct evidence
 
 The brand cannot talk me into feeling seen when meaningful content is silent. It cannot call me capable while an unnamed control blocks the task. It cannot reassure me that I am safe while I need another person to confirm whether a payment succeeded.
 
-Functional experience is how the emotional claim becomes credible.
+Functional evidence may inform a discussion of brand claims, but it cannot establish what a particular person feels. Ask people about their experience and keep their reports distinct from task results.
 
-## Emotional quality is part of the function
+## Emotional experience can affect how people describe use
 
 Tone, timing and dignity affect whether I can use the service confidently. A technically accurate error delivered without context may still leave me unable to recover. A verbose description may contain all the information while making the essential point difficult to find.
 
-The functional and emotional are therefore not opposites. A respectful emotional experience often depends on precise functional decisions.
+These questions can influence one another, but neither should be inferred automatically from the other.
 
 ## Nonvisual brand expression needs design intent
 
