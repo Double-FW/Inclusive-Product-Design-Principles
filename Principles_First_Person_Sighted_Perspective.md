@@ -6,8 +6,8 @@ I am writing from the perspective of a sighted person. I can visually scan a pag
 
 There are two different parts of the same problem:
 
-- *Understanding how I encounter and navigate websites and interfaces.
-- *Approaches how I can conduct frequent, lightweight usability testing without needing a specialist laboratory.
+- How I encounter and navigate websites and interfaces.
+- Lightweight usability testing approaches.
 
 ## 1. Invisible usability
 
@@ -275,52 +275,31 @@ My goodwill is supported when a service:
 
 I find the metaphor useful, but it can conceal differences between people. I may arrive with ample attention and energy on one day and very little on another. Someone experiencing pain, fatigue, anxiety, cognitive overload or repeated accessibility barriers may begin with less capacity available. Inclusive design should not assume that I—or anyone else—has an unlimited reserve.
 
-## 13. I can take part in usability testing
+## 13. I can choose a research method that fits the question
 
-Usability testing happens too rarely because organisations imagine that it must be expensive, statistically rigorous and conducted in a specialist laboratory. Use a simple repeatable process:
+Usability research can be proportionate without being casual. I first decide what uncertainty or decision the work needs to address.
 
-1. Select important tasks or areas of uncertainty based on previously gathered quantitative user data.
-2. Recruit a small number of broadly relevant participants, preferably customers.
-3. Either ask each person to attempt realistic tasks, or complete a customer satisfaction survey that also segments them using the functional requirements found in Annex 1 of the EAA.
-4. Extend the session by also inviting the participant to describe what they notice and expect.
-5. Ensure that all user testing is also MVT and is mindful of statistical significance.
-6. Create a report that focuses on UX satisfaction scores that can be filtered by the participant's needs and preferences. 
-7. Identify the problems are most serious.
-8. Make achievable changes and re-run the MVT study to ensure the changes have a positive impact.
-9. Identify any potential issues that need more detailed study or interventions, and flag these to the Product, Design, Research and Accessibility Teams.
-10. Test again and repeat at regular intervals of no more than a month.
+1. Define the person's task, context, stakes, and the decision the research will inform.
+2. Choose a method suited to the question: task observation for how an interaction works, interviews for reported experience, a survey for structured self-report, analytics for behavioural patterns, or a controlled experiment for a defined comparison.
+3. Recruit people whose experience is relevant to the question. Make participation accessible, voluntary, and privacy-conscious.
+4. Use realistic tasks and the person's usual interaction methods where possible. Avoid teaching the intended route if discovery is what I am evaluating.
+5. Record what happened separately from what participants said and from my interpretation.
+6. Report the method, context, evidence, limitations, unresolved questions, and proposed next action.
+7. Repeat or deepen the research when the stakes, change, uncertainty, or new evidence justify it.
 
-The value lies in the cycle rather than in producing a large research report.
+A/B or multivariate testing is one possible method, not a requirement for every usability study. Use an experiment only when the question, alternatives, outcome measure, design, sample, and ethical context support a meaningful comparison. There is no universal monthly testing cadence.
 
-## 14. I can test with a few people, but I must not over claim is the data is not statistically significant
+## 14. I can learn from a few people without overstating the evidence
 
-It is a recommendation to test with customers and ensure the survey interface is fully accessible so no-one is denied a voice.
+A small formative study can reveal possible barriers, misunderstandings, and recovery problems. It does not, by itself, show how common an issue is in a customer population.
 
-Regular segment-able surveys with customers may help me discover:
+Surveys can collect reported confidence, effort, or satisfaction when the questions, recruitment, accessibility, and analysis fit the purpose. A survey score is not a substitute for observing task performance or understanding why people responded as they did. Any population estimate or group comparison needs a design and sample that support that claim.
 
-- an unclear navigation label;
-- a missing next step;
-- a misleading button;
-- a form people cannot complete; 
-- a service that excludes by design;
-or
-- a page whose purpose is unclear;
-or
-- how comparative a brand experience is for people with different abilities.
+Research findings do not by themselves demonstrate legal compliance or prove that a product is fully accessible. Use relevant standards evaluation, assistive-technology checks, and research with people for the questions each can answer.
 
-Usability surveys cannot enable me to:
+If I use a satisfaction score, I treat it as one signal and interpret it alongside task outcomes, access barriers, and participants' explanations. A higher score may be encouraging; it does not prove that a brand values all customers or that everyone had a good experience.
 
-- estimate success rates reliably;
-- compare demographic populations by age, gender density, ethnicity, sexuality or other self-identity characteristics;
-- establish prevalence;
-- demonstrate legal compliance; or
-- prove that a product is fully accessible.
-
-But with satisfactions scores showing improvement, it demonstrates an intent that a brand values all its customers. 
-
-I treat regularly repeated online testing as a diagnostic technique, similar to smoke testing, not evidence that quality or inclusion have conclusively been achieved.
-
-At the end of a Likert scale customer satisfaction survey, ensure there is an optional text field for customers to leave comments for further analysis.
+Optional open-text comments can add context when the survey is accessible and privacy is protected. I should explain how comments will be used and avoid collecting personal information that is not needed.
 
 ## 15. I can test early and test unfinished work
 
@@ -400,20 +379,19 @@ A visible struggle is evidence of a problem, but the participant’s suggested s
 
 ## 19. I debrief promptly and prioritise carefully
 
-After the sessions, I debrief with the team while the observations are fresh. Rather than creating an exhaustive catalogue, I identify a small number of the most serious issues.
+After the sessions, I debrief while observations are fresh. I prioritise issues by the task they affect, the consequence of failure, the evidence available, and the uncertainty that remains.
 
 I consider:
 
-- whether the problem blocks an important task;
-- how severe its consequences are;
-- whether it appeared repeatedly;
-- whether it affects a common route;
-- how confidently I understand it; and
-- whether a practical improvement is available.
+- whether the issue blocks an important task or creates avoidable dependence;
+- the severity and reversibility of its consequences;
+- which contexts, people, and interaction methods may be affected;
+- how well the observation and interpretation are supported; and
+- what follow-up evidence or change would be useful.
 
-Fix the most serious and obvious problems before pursuing a wholesale redesign, and if this is in a live product, run a quantitative MVT study to measure the impact and outcome.
+Frequency is not the same as severity. A barrier seen once may have serious consequences, but one observation does not establish its population prevalence. I should neither dismiss a serious barrier because it appeared once nor infer its scale without suitable evidence.
 
-Accessibility adds a crucial qualification but do not treat that as a compliance issue, but rather as a lens of multimodal needs and preferences. Frequency is not the same as severity. A barrier experienced by one participant may completely exclude a wider group. I should not downgrade an accessibility defect simply because it appeared once in a small study, but I should also use the quantitative data to measure the combined impact on small issues on disabled customers.
+Accessibility includes applicable obligations as well as user experience. I distinguish standards conformance, functional outcomes, and reported experience, then choose proportionate follow-up. A quantitative experiment may be useful for a specific comparison when its design supports that question; it is not mandatory for every live issue.
 
 ## 20. I look for the smallest effective change
 
@@ -431,17 +409,11 @@ However, I do not use incrementalism to avoid structural problems. If repeated l
 
 ## 21. I keep reporting proportionate
 
-Favour shared observation, a short list of agreed problems and immediate action over a long formal report, and if the problem is one that resolution has been well documented, allow the AI to autonomously spin up a multi-variant test to provide data that supports a quick fix.
+For formative work, I can share observations, a short prioritised issue list, and clear actions instead of producing a long report. I record enough context and evidence for another person to understand how a conclusion was reached.
 
-I find this approach appropriate when:
+I need stronger traceability when decisions concern a regulated service, procurement, accessibility conformance, longitudinal research, or accountable AI governance. In those cases, I connect the relevant tasks and methods to evidence, findings, recommendations, decisions, owners, and unresolved risks.
 
-- the product team attends the sessions;
-- decisions can be made quickly;
-- the findings are formative;
-- the risks are limited; and
-- responsibility for changes is clear.
-
-I need more formal evidence when I am dealing with a regulated service, procurement, accessibility conformance, inclusive design, longitudinal research or accountable AI governance. In those situations, I need traceability between participants, tasks, observations, data, barriers, recommendations and decisions.
+An AI may help draft a research proposal or compare options. A human must authorise participant contact, live-user experiments, access to identifiable research data, live service changes, and acceptance of material risk.
 
 ## 22. This approach helps me or the AI:
 
@@ -460,26 +432,20 @@ This approach is operational because it makes it easier for me to begin testing 
 
 ## 23. Where I need to extend this methodology
 
-This is not a complete inclusive-design or accessibility methodology.
+This is not a complete inclusive-design or accessibility methodology. I need to combine it with relevant work such as:
 
-I need to combine it with:
+- research with disabled and neurodivergent participants whose experiences relate to the question;
+- assistive-technology and platform testing, including WCAG evaluation where applicable;
+- testing at high zoom, with text reflow, keyboard, switch, voice, touch, and other relevant input methods;
+- consideration of cognitive and communication access;
+- attention to changes in capacity related to fatigue, pain, medication, environment, or fluctuating conditions;
+- recruitment that reflects relevant intersections of access needs, identities, and circumstances;
+- analysis of exclusion and consequential barriers, not inconvenience alone; and
+- named accountability for barriers that remain unresolved.
 
-- research involving disabled and neurodivergent participants;
-- quantitative and statistically significant data that can be segmented using the EAA's functional requirements in Annex 1;
-- assistive-technology testing;
-- WCAG AA and platform-guideline evaluation;
-- testing that includes inclusive design best practices.
-- testing at high zoom and with text reflow;
-- keyboard, switch, voice, touch screen and alternative-input testing;
-- cognitive and communication accessibility;
-- consideration of changes in capability and capacity from fatigue, pain, medication, environment and fluctuating ability;
-- intersectional recruitment demographically as well as by user needs and preferences;
-- analysis of exclusion rather than inconvenience alone; and
-- documented accountability for barriers that remain unresolved.
+The EAA's Annex I describes functional performance criteria for determining accessibility requirements in its legal context. It is not, by itself, a population segmentation scheme or a requirement that every research study use statistical significance testing. Use demographic or functional grouping only when it is relevant, lawful, privacy-conscious, and supported by the research design.
 
-Inclusive research sometimes requires deliberate recruitment because convenience samples systematically leave out the people most likely to encounter exclusion, or that the quantitative data has identified a particular group or groups that have provided low satisfaction scores;
-
-I can use both approaches, but I must be clear that they answer different questions.
+Qualitative and quantitative methods answer different questions. Qualitative work can explain how or why an experience unfolds; quantitative methods can estimate patterns or compare defined outcomes when sampling, measurement, and analysis justify those claims. Neither method automatically determines product direction or proves impact.
 
 ## A deeper philosophy that applies to all human beings:
 
